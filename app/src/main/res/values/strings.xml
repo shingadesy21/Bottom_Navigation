@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bottom Navigation</string>
+
+    <string name="menu_setting">Setting</string>
+
+    <string name="menu_logout">SignOut</string>
+
+</resources>
